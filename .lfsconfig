@@ -1,2 +1,2 @@
 [lfs]
-url = "http://172.23.20.38:8081/artifactory/api/lfs/gsdk"
+url = "https://localhost/artifactory/api/lfs/gsdk"
