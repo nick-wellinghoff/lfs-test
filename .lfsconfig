@@ -1,2 +1,2 @@
 [lfs]
-url = "https://localhost/artifactory/api/lfs/gsdk"
+url = "https://artifacts.silabs.net/artifactory/api/lfs/gsdk"
